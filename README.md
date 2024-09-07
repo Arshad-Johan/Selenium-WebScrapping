@@ -1,0 +1,2 @@
+AMAZON WEB SCRAPPER WITH SELENIUM: 
+This project is a web scraping tool that uses Selenium WebDriver to extract product information from Amazon. It retrieves product titles, prices, and categories from a list of URLs and saves the data in a CSV file. The tool includes features for handling different page structures and provides error handling for robust performance. It also randomizes URL order to minimize detection risks.
